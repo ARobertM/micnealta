@@ -1,0 +1,12 @@
+C:\Users\Gabi\Desktop\Tutoring PAW - SISC 2022 (codul meu)\Tutoring PAW - SISC 2022 (codul meu)\bin\Debug\Tutoring PAW - SISC 2022 (codul meu).exe.config
+C:\Users\Gabi\Desktop\Tutoring PAW - SISC 2022 (codul meu)\Tutoring PAW - SISC 2022 (codul meu)\bin\Debug\Tutoring PAW - SISC 2022 (codul meu).exe
+C:\Users\Gabi\Desktop\Tutoring PAW - SISC 2022 (codul meu)\Tutoring PAW - SISC 2022 (codul meu)\bin\Debug\Tutoring PAW - SISC 2022 (codul meu).pdb
+C:\Users\Gabi\Desktop\Tutoring PAW - SISC 2022 (codul meu)\Tutoring PAW - SISC 2022 (codul meu)\obj\Debug\Tutoring PAW - SISC 2022 (codul meu).csproj.AssemblyReference.cache
+C:\Users\Gabi\Desktop\Tutoring PAW - SISC 2022 (codul meu)\Tutoring PAW - SISC 2022 (codul meu)\obj\Debug\Tutoring PAW - SISC 2022 (codul meu).csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabi\Desktop\Tutoring PAW - SISC 2022 (codul meu)\Tutoring PAW - SISC 2022 (codul meu)\obj\Debug\Tutoring_PAW___SISC_2022__codul_meu_.Form1.resources
+C:\Users\Gabi\Desktop\Tutoring PAW - SISC 2022 (codul meu)\Tutoring PAW - SISC 2022 (codul meu)\obj\Debug\Tutoring_PAW___SISC_2022__codul_meu_.Properties.Resources.resources
+C:\Users\Gabi\Desktop\Tutoring PAW - SISC 2022 (codul meu)\Tutoring PAW - SISC 2022 (codul meu)\obj\Debug\Tutoring PAW - SISC 2022 (codul meu).csproj.GenerateResource.cache
+C:\Users\Gabi\Desktop\Tutoring PAW - SISC 2022 (codul meu)\Tutoring PAW - SISC 2022 (codul meu)\obj\Debug\Tutoring PAW - SISC 2022 (codul meu).csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Desktop\Tutoring PAW - SISC 2022 (codul meu)\Tutoring PAW - SISC 2022 (codul meu)\obj\Debug\Tutoring PAW - SISC 2022 (codul meu).exe
+C:\Users\Gabi\Desktop\Tutoring PAW - SISC 2022 (codul meu)\Tutoring PAW - SISC 2022 (codul meu)\obj\Debug\Tutoring PAW - SISC 2022 (codul meu).pdb
+C:\Users\Gabi\Desktop\Tutoring PAW - SISC 2022 (codul meu)\Tutoring PAW - SISC 2022 (codul meu)\obj\Debug\Tutoring_PAW___SISC_2022__codul_meu_.Form2.resources
