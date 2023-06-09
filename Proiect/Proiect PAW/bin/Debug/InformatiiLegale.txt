@@ -1,0 +1,21 @@
+1) Credite de nevoi personale:
+     Acestea sunt credite acordate persoanelor fizice pentru a-și satisface diverse nevoi personale, cum ar fi achiziționarea de bunuri de larg consum, plata facturilor medicale sau a educației.
+
+2) Credite ipotecare: 
+    Reprezinta credite destinate achiziționării sau refinanțării unei proprietăți imobiliare. Proprietatea imobiliară este utilizată ca garanție pentru împrumut, iar rambursarea se face pe o perioadă mai lungă, de obicei între 15 și 30 de ani.
+
+3) Credite auto:
+    Sunt credite acordate pentru achiziționarea unui vehicul. Banca finanțează o parte sau întreaga sumă necesară pentru achiziționarea automobilului, iar beneficiarul rambursează împrumutul în rate lunare.
+
+4) Credite pentru afaceri:
+    Acestea sunt credite destinate întreprinderilor și afacerilor pentru finanțarea capitalului de lucru, achiziționarea de echipamente, extindere sau alte necesități legate de afacere. Pot fi oferite atât pentru întreprinderi mici, cât și pentru corporații mari.
+
+5) Credite pentru studii: 
+    Acestea sunt credite destinate studenților pentru a acoperi cheltuielile legate de educație, cum ar fi taxele universitare, costurile de cazare, manualele școlare etc. De obicei, rambursarea se face după terminarea studiilor sau într-un interval de timp convenit.
+
+6) Credite revolving:
+    Reprezinta linii de credit disponibile pentru utilizare repetată. Beneficiarul poate împrumuta și rambursa sume de bani în funcție de nevoi, iar dobânda se aplică doar la suma utilizată efectiv.
+
+7) Credite pentru carduri de credit: 
+    Sunt credite acordate sub formă de carduri de credit, care permit deținătorului să efectueze achiziții și plăți la comercianți autorizați. Rambursarea trebuie făcută conform termenilor conveniți cu emitentul cardului și pot exista dobânzi sau taxe asociate.
+

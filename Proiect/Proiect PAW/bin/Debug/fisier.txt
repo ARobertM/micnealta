@@ -1,0 +1,11 @@
+1,Ion,Popescu,4250,M
+2,Maria,Gherasim,12972,F
+3,Tiberiu,Mihaila,216921,M
+4,Oana,Savulescu,1632,F
+5,Rares,Bop,177,M
+6,Andrei,Serban,999999,M
+7,Robert-Mihai,Alexandru,500,M
+8,Flavian,Ariton,3781,M
+9,Stefania,Comeleaga,18000,F
+10,Catalina,Porumboiu,4226,F
+11,Florin,Ravanelli,777717,M

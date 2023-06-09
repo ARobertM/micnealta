@@ -1,0 +1,30 @@
+C:\Users\Gabi\Desktop\Proiect PAW\Proiect PAW\bin\Debug\Proiect PAW.exe.config
+C:\Users\Gabi\Desktop\Proiect PAW\Proiect PAW\bin\Debug\Proiect PAW.exe
+C:\Users\Gabi\Desktop\Proiect PAW\Proiect PAW\bin\Debug\Proiect PAW.pdb
+C:\Users\Gabi\Desktop\Proiect PAW\Proiect PAW\obj\Debug\Proiect PAW.csproj.AssemblyReference.cache
+C:\Users\Gabi\Desktop\Proiect PAW\Proiect PAW\obj\Debug\Proiect PAW.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabi\Desktop\Proiect PAW\Proiect PAW\obj\Debug\Proiect_PAW.Properties.Resources.resources
+C:\Users\Gabi\Desktop\Proiect PAW\Proiect PAW\obj\Debug\Proiect PAW.csproj.GenerateResource.cache
+C:\Users\Gabi\Desktop\Proiect PAW\Proiect PAW\obj\Debug\Proiect PAW.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Desktop\Proiect PAW\Proiect PAW\obj\Debug\Proiect PAW.exe
+C:\Users\Gabi\Desktop\Proiect PAW\Proiect PAW\obj\Debug\Proiect PAW.pdb
+C:\Users\Gabi\Desktop\Proiect PAW\Proiect PAW\obj\Debug\Proiect_PAW.ClientiF.resources
+C:\Users\Gabi\Desktop\Proiect PAW\Proiect PAW\obj\Debug\Proiect_PAW.frmCalculatorCredit.resources
+C:\Users\Gabi\Desktop\Proiect PAW\Proiect PAW\obj\Debug\Proiect_PAW.TipCredite.resources
+C:\Users\Gabi\Desktop\Proiect PAW\Proiect PAW\obj\Debug\Proiect_PAW.InformatiiLegale.resources
+C:\Users\Gabi\Desktop\Proiect PAW\Proiect PAW\obj\Debug\Proiect_PAW.MainMenu.resources
+C:\Users\Gabi\Desktop\RSS\1055D_Popescu_A_Gabriel_S119681\1055D_Popescu_A_Gabriel_S119681\Proiect PAW\bin\Debug\Proiect PAW.exe.config
+C:\Users\Gabi\Desktop\RSS\1055D_Popescu_A_Gabriel_S119681\1055D_Popescu_A_Gabriel_S119681\Proiect PAW\bin\Debug\Proiect PAW.exe
+C:\Users\Gabi\Desktop\RSS\1055D_Popescu_A_Gabriel_S119681\1055D_Popescu_A_Gabriel_S119681\Proiect PAW\bin\Debug\Proiect PAW.pdb
+C:\Users\Gabi\Desktop\RSS\1055D_Popescu_A_Gabriel_S119681\1055D_Popescu_A_Gabriel_S119681\Proiect PAW\obj\Debug\Proiect PAW.csproj.AssemblyReference.cache
+C:\Users\Gabi\Desktop\RSS\1055D_Popescu_A_Gabriel_S119681\1055D_Popescu_A_Gabriel_S119681\Proiect PAW\obj\Debug\Proiect PAW.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabi\Desktop\RSS\1055D_Popescu_A_Gabriel_S119681\1055D_Popescu_A_Gabriel_S119681\Proiect PAW\obj\Debug\Proiect_PAW.ClientiF.resources
+C:\Users\Gabi\Desktop\RSS\1055D_Popescu_A_Gabriel_S119681\1055D_Popescu_A_Gabriel_S119681\Proiect PAW\obj\Debug\Proiect_PAW.frmCalculatorCredit.resources
+C:\Users\Gabi\Desktop\RSS\1055D_Popescu_A_Gabriel_S119681\1055D_Popescu_A_Gabriel_S119681\Proiect PAW\obj\Debug\Proiect_PAW.MainMenu.resources
+C:\Users\Gabi\Desktop\RSS\1055D_Popescu_A_Gabriel_S119681\1055D_Popescu_A_Gabriel_S119681\Proiect PAW\obj\Debug\Proiect_PAW.InformatiiLegale.resources
+C:\Users\Gabi\Desktop\RSS\1055D_Popescu_A_Gabriel_S119681\1055D_Popescu_A_Gabriel_S119681\Proiect PAW\obj\Debug\Proiect_PAW.Properties.Resources.resources
+C:\Users\Gabi\Desktop\RSS\1055D_Popescu_A_Gabriel_S119681\1055D_Popescu_A_Gabriel_S119681\Proiect PAW\obj\Debug\Proiect_PAW.TipCredite.resources
+C:\Users\Gabi\Desktop\RSS\1055D_Popescu_A_Gabriel_S119681\1055D_Popescu_A_Gabriel_S119681\Proiect PAW\obj\Debug\Proiect PAW.csproj.GenerateResource.cache
+C:\Users\Gabi\Desktop\RSS\1055D_Popescu_A_Gabriel_S119681\1055D_Popescu_A_Gabriel_S119681\Proiect PAW\obj\Debug\Proiect PAW.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Desktop\RSS\1055D_Popescu_A_Gabriel_S119681\1055D_Popescu_A_Gabriel_S119681\Proiect PAW\obj\Debug\Proiect PAW.exe
+C:\Users\Gabi\Desktop\RSS\1055D_Popescu_A_Gabriel_S119681\1055D_Popescu_A_Gabriel_S119681\Proiect PAW\obj\Debug\Proiect PAW.pdb
