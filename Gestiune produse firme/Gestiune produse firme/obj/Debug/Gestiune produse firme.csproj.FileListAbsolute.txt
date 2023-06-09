@@ -1,0 +1,12 @@
+C:\Users\Gabi\Desktop\Gestiune produse firme\Gestiune produse firme\bin\Debug\Gestiune produse firme.exe.config
+C:\Users\Gabi\Desktop\Gestiune produse firme\Gestiune produse firme\bin\Debug\Gestiune produse firme.exe
+C:\Users\Gabi\Desktop\Gestiune produse firme\Gestiune produse firme\bin\Debug\Gestiune produse firme.pdb
+C:\Users\Gabi\Desktop\Gestiune produse firme\Gestiune produse firme\obj\Debug\Gestiune produse firme.csproj.AssemblyReference.cache
+C:\Users\Gabi\Desktop\Gestiune produse firme\Gestiune produse firme\obj\Debug\Gestiune produse firme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabi\Desktop\Gestiune produse firme\Gestiune produse firme\obj\Debug\Gestiune_produse_firme.Form1.resources
+C:\Users\Gabi\Desktop\Gestiune produse firme\Gestiune produse firme\obj\Debug\Gestiune_produse_firme.Form2.resources
+C:\Users\Gabi\Desktop\Gestiune produse firme\Gestiune produse firme\obj\Debug\Gestiune_produse_firme.Properties.Resources.resources
+C:\Users\Gabi\Desktop\Gestiune produse firme\Gestiune produse firme\obj\Debug\Gestiune produse firme.csproj.GenerateResource.cache
+C:\Users\Gabi\Desktop\Gestiune produse firme\Gestiune produse firme\obj\Debug\Gestiune produse firme.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Desktop\Gestiune produse firme\Gestiune produse firme\obj\Debug\Gestiune produse firme.exe
+C:\Users\Gabi\Desktop\Gestiune produse firme\Gestiune produse firme\obj\Debug\Gestiune produse firme.pdb
